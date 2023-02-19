@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/courses-cursor-react-20/static/css/main.47b0a4cd.css",
-    "main.js": "/courses-cursor-react-20/static/js/main.145cb9ea.js",
+    "main.js": "/courses-cursor-react-20/static/js/main.46cbb250.js",
     "static/media/photo_3.jpeg": "/courses-cursor-react-20/static/media/photo_3.9466f951297e727da7dd.jpeg",
     "static/media/main_bg.png": "/courses-cursor-react-20/static/media/main_bg.d0c14240d5a9c96e45ce.png",
     "static/media/news_bg.jpeg": "/courses-cursor-react-20/static/media/news_bg.dfaf4b23c651ddb1bf5d.jpeg",
@@ -16,10 +16,10 @@
     "static/media/galaxy_logo.png": "/courses-cursor-react-20/static/media/galaxy_logo.6ba3af6ba1d721ff51aa.png",
     "index.html": "/courses-cursor-react-20/index.html",
     "main.47b0a4cd.css.map": "/courses-cursor-react-20/static/css/main.47b0a4cd.css.map",
-    "main.145cb9ea.js.map": "/courses-cursor-react-20/static/js/main.145cb9ea.js.map"
+    "main.46cbb250.js.map": "/courses-cursor-react-20/static/js/main.46cbb250.js.map"
   },
   "entrypoints": [
     "static/css/main.47b0a4cd.css",
-    "static/js/main.145cb9ea.js"
+    "static/js/main.46cbb250.js"
   ]
 }
