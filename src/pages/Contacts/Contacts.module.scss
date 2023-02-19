@@ -1,0 +1,60 @@
+.wrapper_contacts{
+    display: flex;
+    flex-flow: column;
+    padding: 100px 0;
+}
+.search_input{
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    border: 0px solid;
+    background: #cccccc6b;
+    padding: 10px;
+    border-radius: 20px;
+    font: 14px Jura;
+    transition: .3s all ease-in-out;
+
+    &:focus {
+        background:#fff;
+        outline-color: #ccc;
+    }
+}
+.contact_block{
+    width: 100%;
+    max-width: 1000px;
+    margin: 10px auto;
+    background: #cccccc57;
+    padding: 15px;
+    border-radius:10px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+    transition: .5s all ease-in-out;
+
+    &:hover{
+        background: black;
+        color:#12BDE6;
+        .message_btn{
+            background: #12BDE6;
+        }
+    }
+}
+.message_btn{
+    width: 60px;
+    height: 60px;
+    border-radius:100%;
+    cursor:pointer;
+    background:transparent;
+    padding: 15px 10px;
+    transition: .5s all ease-in-out;
+}
+.person_name{
+    font:20px Russo One;
+}
+.person_position{
+    font: 15px Jura;
+}
+.person_phone{
+    font: 14px Jura;
+    margin-top:5px;
+}

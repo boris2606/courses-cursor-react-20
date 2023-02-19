@@ -1,0 +1,17 @@
+.wrapper_main{
+    background: #ccc;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 0 auto;
+    flex-flow: column;
+    justify-content: center;
+    background: url(../../img/main_bg.png) no-repeat center;
+    background-size: cover;
+}
+.tit_text_main{
+    font:30px Russo One;
+    text-align: center;
+    color: #12BDE6;
+}
