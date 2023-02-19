@@ -15,10 +15,10 @@ function App() {
     <div className="App">
       <Header navigation={data.navList}/>
       <Routes>
-        <Route exact path="/" element={<Main/>}></Route>
+        <Route path="/" element={<Main/>}></Route>
         <Route path="/news" element={<News posts={data.newsList}/>}></Route>
         <Route path="/gallery" element={<Gallery gallary={data.gallaryImage}/>}></Route>
-        <Route exact path="/contacts" element={<Contacts contacts={data.contacts}/>}></Route>
+        <Route path="/contacts" element={<Contacts contacts={data.contacts}/>}></Route>
         <Route path="/contacts/:person" element={<Person contacts={data.contacts} message={data.messagePersons}/>}></Route>
         <Route path='*' element={<Error/>}/>
       </Routes>
