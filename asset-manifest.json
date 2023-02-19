@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/courses-cursor-react-20/static/css/main.47b0a4cd.css",
+    "main.js": "/courses-cursor-react-20/static/js/main.145cb9ea.js",
+    "static/media/photo_3.jpeg": "/courses-cursor-react-20/static/media/photo_3.9466f951297e727da7dd.jpeg",
+    "static/media/main_bg.png": "/courses-cursor-react-20/static/media/main_bg.d0c14240d5a9c96e45ce.png",
+    "static/media/news_bg.jpeg": "/courses-cursor-react-20/static/media/news_bg.dfaf4b23c651ddb1bf5d.jpeg",
+    "static/media/photo_2.jpeg": "/courses-cursor-react-20/static/media/photo_2.c4bcb91650f6133dc4a0.jpeg",
+    "static/media/photo_1.jpeg": "/courses-cursor-react-20/static/media/photo_1.c9afdf3821aad35a3a7a.jpeg",
+    "static/media/photo_5.webp": "/courses-cursor-react-20/static/media/photo_5.495e3f294fc47fe123a6.webp",
+    "static/media/member_2.jpeg": "/courses-cursor-react-20/static/media/member_2.6e733e351d4d939e65f8.jpeg",
+    "static/media/member_3.jpeg": "/courses-cursor-react-20/static/media/member_3.7e02b51e425099bfbd9b.jpeg",
+    "static/media/photo_4.jpeg": "/courses-cursor-react-20/static/media/photo_4.c539a9072ba207181c24.jpeg",
+    "static/media/error_bg.webp": "/courses-cursor-react-20/static/media/error_bg.9d2122a3ed8dc895dec1.webp",
+    "static/media/member_1.jpeg": "/courses-cursor-react-20/static/media/member_1.36efb20981e9b7e598db.jpeg",
+    "static/media/galaxy_logo.png": "/courses-cursor-react-20/static/media/galaxy_logo.6ba3af6ba1d721ff51aa.png",
+    "index.html": "/courses-cursor-react-20/index.html",
+    "main.47b0a4cd.css.map": "/courses-cursor-react-20/static/css/main.47b0a4cd.css.map",
+    "main.145cb9ea.js.map": "/courses-cursor-react-20/static/js/main.145cb9ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47b0a4cd.css",
+    "static/js/main.145cb9ea.js"
+  ]
+}
