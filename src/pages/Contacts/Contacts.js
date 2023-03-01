@@ -3,9 +3,6 @@ import { Link } from 'react-router-dom';
 import styles from "./../Contacts/Contacts.module.scss"
 import send from "../../img/send.png"
 
-
-
-
 const Contacts = (props) => {
     const [inputValue,setInput] = useState('')
     return (
