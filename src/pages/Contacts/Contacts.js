@@ -1,7 +1,7 @@
 import {React,useState} from 'react';
+import { Link } from 'react-router-dom';
 import styles from "./../Contacts/Contacts.module.scss"
 import send from "../../img/send.png"
-import { Link } from 'react-router-dom';
 
 
 

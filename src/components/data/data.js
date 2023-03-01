@@ -22,77 +22,77 @@ const messagePersons = [
 const gallaryImage =[ 
     {
         image:image1,
-        alt:'Space poto',
+        alt:'Space poto 1',
         flag: true
     },
     {
         image:image2,
-        alt:'Space poto',
+        alt:'Space poto 2',
         flag: true
     },
     {
         image:image3,
-        alt:'Space poto',
+        alt:'Space poto 3',
         flag: true
     },
     {
         image:image4,
-        alt:'Space poto',
+        alt:'Space poto 4',
         flag: true
     },
     {
         image:image5,
-        alt:'Space poto',
+        alt:'Space poto 5',
         flag: true
     },
     {
         image:image1,
-        alt:'Space poto',
+        alt:'Space poto 6',
         flag: true
     },
     {
         image:image2,
-        alt:'Space poto',
+        alt:'Space poto 7',
         flag: true
     },
     {
         image:image3,
-        alt:'Space poto',
+        alt:'Space poto 8',
         flag: true
     },
     {
         image:image4,
-        alt:'Space poto',
+        alt:'Space poto 9',
         flag: true
     },
     {
         image:image5,
-        alt:'Space poto',
+        alt:'Space poto 10',
         flag: true
     },
     {
         image:image1,
-        alt:'Space poto',
+        alt:'Space poto 11',
         flag: true
     },
     {
         image:image2,
-        alt:'Space poto',
+        alt:'Space poto 12',
         flag: true
     },
     {
         image:image3,
-        alt:'Space poto',
+        alt:'Space poto 13',
         flag: true
     },
     {
         image:image4,
-        alt:'Space poto',
+        alt:'Space poto 14',
         flag: true
     },
     {
         image:image5,
-        alt:'Space poto',
+        alt:'Space poto 15',
         flag: true
     }
 ]
