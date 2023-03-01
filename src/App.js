@@ -20,7 +20,7 @@ function App() {
         <Route path="/gallery" element={<Gallery gallary={data.gallaryImage}/>}></Route>
         <Route path="/contacts" element={<Contacts contacts={data.contacts}/>}></Route>
         <Route path="/contacts/:person" element={<Person contacts={data.contacts} message={data.messagePersons}/>}></Route>
-        <Route path='*' element={<Error/>}/>
+        <Route path='*' element={<Error />}/>
       </Routes>
       <Footer/>
     </div>
